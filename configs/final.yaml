@@ -1,0 +1,10 @@
+release: 0.4.2
+research_frozen: true
+max_finalized_crop_year: 2025
+final_test_policy: no_additional_model_selection
+publication_policy:
+  yield: report_paired_baseline_comparisons_no_champion_claim
+  returns: report_full_prespecified_grid_and_incremental_market_controls
+  volatility: exploratory_without_dedicated_inference
+  zero_coverage_features: exclude_from_publication_claims
+  ensemble_spread: prospective_only

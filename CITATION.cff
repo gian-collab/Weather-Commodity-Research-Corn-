@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: WeatherCommodityLab
+message: "If you use this research code, please cite the repository and associated BSIC article."
+type: software
+version: 0.4.2
+date-released: 2026-09-26
+license: MIT
+abstract: "Point-in-time research platform linking weather forecast skill, crop outcomes and corn-market responses, with probabilistic-forecasting lessons for quantitative finance."
