@@ -1,4 +1,4 @@
-# WeatherCommodityLab v0.4.2
+# Weather Commodity Research (Corn)
 
 Research-grade Python platform for studying how weather forecast uncertainty propagates through crop fundamentals into commodity markets, and what that process can teach quantitative finance about probabilistic forecasting.
 
